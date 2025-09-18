@@ -5,13 +5,13 @@ VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee_Ordering_Program", "Coffee_Ordering_Program\Coffee_Ordering_Program.csproj", "{501B2E22-FEDE-4D4B-AB2E-D7FF70B55422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Calculator_Revisited", "BMI_Calculator_Revisited\BMI_Calculator_Revisited.csproj", "{4D4DBDE1-701E-41E4-90E1-8B2D9D0F9FEF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade_Flash_Card_App", "Grade_Flash_Card_App\Grade_Flash_Card_App.csproj", "{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3_10", "Problem_3_10\Problem_3_10.csproj", "{6F7079A0-11EE-4B55-9808-EF136AB61DB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3-14", "Problem_3-14\Problem_3-14.csproj", "{1BBA28C7-9CEF-4AA0-AE4D-CAA2E91011C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-Calculator-Revisited", "BMI-Calculator-Revisited\BMI-Calculator-Revisited.csproj", "{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{501B2E22-FEDE-4D4B-AB2E-D7FF70B55422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{501B2E22-FEDE-4D4B-AB2E-D7FF70B55422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{501B2E22-FEDE-4D4B-AB2E-D7FF70B55422}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D4DBDE1-701E-41E4-90E1-8B2D9D0F9FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D4DBDE1-701E-41E4-90E1-8B2D9D0F9FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D4DBDE1-701E-41E4-90E1-8B2D9D0F9FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D4DBDE1-701E-41E4-90E1-8B2D9D0F9FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{1BBA28C7-9CEF-4AA0-AE4D-CAA2E91011C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BBA28C7-9CEF-4AA0-AE4D-CAA2E91011C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BBA28C7-9CEF-4AA0-AE4D-CAA2E91011C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
