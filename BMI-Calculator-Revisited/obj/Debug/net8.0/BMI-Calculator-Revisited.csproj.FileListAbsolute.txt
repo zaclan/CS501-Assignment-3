@@ -1,0 +1,15 @@
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\bin\Debug\net8.0\BMI-Calculator-Revisited.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\bin\Debug\net8.0\BMI-Calculator-Revisited.deps.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\bin\Debug\net8.0\BMI-Calculator-Revisited.runtimeconfig.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\bin\Debug\net8.0\BMI-Calculator-Revisited.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\bin\Debug\net8.0\BMI-Calculator-Revisited.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.AssemblyInfoInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.AssemblyInfo.cs
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.sourcelink.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\refint\BMI-Calculator-Revisited.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\BMI-Calculator-Revisited.genruntimeconfig.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\BMI-Calculator-Revisited\obj\Debug\net8.0\ref\BMI-Calculator-Revisited.dll
