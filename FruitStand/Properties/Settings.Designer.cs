@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Coffee_Ordering_Program.Properties
+namespace FruitStand.Properties
 {
 
 

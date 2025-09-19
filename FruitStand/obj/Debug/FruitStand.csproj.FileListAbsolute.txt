@@ -1,0 +1,11 @@
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\bin\Debug\FruitStand.exe.config
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\bin\Debug\FruitStand.exe
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\bin\Debug\FruitStand.pdb
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.csproj.AssemblyReference.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.form_fruitStand.resources
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.Properties.Resources.resources
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.csproj.GenerateResource.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.csproj.CoreCompileInputs.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.exe
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.pdb
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.exe.config

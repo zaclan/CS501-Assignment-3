@@ -1,9 +1,0 @@
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\bin\Debug\Coffee_Ordering_Program.exe.config
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\bin\Debug\Coffee_Ordering_Program.exe
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\bin\Debug\Coffee_Ordering_Program.pdb
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.csproj.AssemblyReference.cache
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.Properties.Resources.resources
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.csproj.GenerateResource.cache
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.csproj.CoreCompileInputs.cache
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.exe
-C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Coffee_Ordering_Program\obj\Debug\Coffee_Ordering_Program.pdb
