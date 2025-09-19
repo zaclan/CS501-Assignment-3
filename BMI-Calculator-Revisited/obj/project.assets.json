@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ericn\\.nuget\\packages\\": {},
+    "C:\\Users\\noahp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\BMI-Calculator-Revisited\\BMI-Calculator-Revisited.csproj",
+      "projectUniqueName": "C:\\Users\\noahp\\Documents\\CS501_Fall_Work\\hw3\\CS501-Assignment-3\\BMI-Calculator-Revisited\\BMI-Calculator-Revisited.csproj",
       "projectName": "BMI-Calculator-Revisited",
-      "projectPath": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\BMI-Calculator-Revisited\\BMI-Calculator-Revisited.csproj",
-      "packagesPath": "C:\\Users\\ericn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\BMI-Calculator-Revisited\\obj\\",
+      "projectPath": "C:\\Users\\noahp\\Documents\\CS501_Fall_Work\\hw3\\CS501-Assignment-3\\BMI-Calculator-Revisited\\BMI-Calculator-Revisited.csproj",
+      "packagesPath": "C:\\Users\\noahp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\noahp\\Documents\\CS501_Fall_Work\\hw3\\CS501-Assignment-3\\BMI-Calculator-Revisited\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ericn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\noahp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
