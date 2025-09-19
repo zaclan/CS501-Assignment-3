@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Second-Grade-Flash-Card-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39266a0a73a2208918907a238f783fb44dd9445c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0947726b4cccb7f895d9fbb1eadfe0adba7edb84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Second-Grade-Flash-Card-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Second-Grade-Flash-Card-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
