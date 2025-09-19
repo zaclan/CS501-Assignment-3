@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3-14", "Problem_3-1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-Calculator-Revisited", "BMI-Calculator-Revisited\BMI-Calculator-Revisited.csproj", "{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second-Grade-Flash-Card-App", "Second-Grade-Flash-Card-App\Second-Grade-Flash-Card-App.csproj", "{9E86E096-E859-49B9-8318-9E0FD63E0EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEDDE118-8D70-4291-BBE1-4EE6557E2A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E86E096-E859-49B9-8318-9E0FD63E0EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E86E096-E859-49B9-8318-9E0FD63E0EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E86E096-E859-49B9-8318-9E0FD63E0EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E86E096-E859-49B9-8318-9E0FD63E0EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
