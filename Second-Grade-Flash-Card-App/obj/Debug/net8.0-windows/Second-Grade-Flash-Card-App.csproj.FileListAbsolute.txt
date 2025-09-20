@@ -1,0 +1,17 @@
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\bin\Debug\net8.0-windows\Second-Grade-Flash-Card-App.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\bin\Debug\net8.0-windows\Second-Grade-Flash-Card-App.deps.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\bin\Debug\net8.0-windows\Second-Grade-Flash-Card-App.runtimeconfig.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\bin\Debug\net8.0-windows\Second-Grade-Flash-Card-App.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\bin\Debug\net8.0-windows\Second-Grade-Flash-Card-App.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second_Grade_Flash_Card_App.Form1.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.AssemblyInfoInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.AssemblyInfo.cs
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.sourcelink.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\refint\Second-Grade-Flash-Card-App.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\Second-Grade-Flash-Card-App.genruntimeconfig.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Second-Grade-Flash-Card-App\obj\Debug\net8.0-windows\ref\Second-Grade-Flash-Card-App.dll

@@ -32,12 +32,16 @@
             lbNumberTwo = new Label();
             lbOperator = new Label();
             lbProblemNumber = new Label();
-            label1 = new Label();
+            lbTryNumber = new Label();
             lbEnterAnswer = new Label();
             btnSubmitAnswer = new Button();
-            button1 = new Button();
+            btnContinue = new Button();
             tbAnswerInput = new TextBox();
             lbSubmissionStatus = new Label();
+            lbInvalidInput = new Label();
+            lbScoreText = new Label();
+            lbScoreValue = new Label();
+            btnRetry = new Button();
             SuspendLayout();
             // 
             // lbNumberOne
@@ -48,11 +52,9 @@
             lbNumberOne.Location = new Point(591, 130);
             lbNumberOne.Name = "lbNumberOne";
             lbNumberOne.Padding = new Padding(10);
-            lbNumberOne.Size = new Size(171, 195);
+            lbNumberOne.Size = new Size(20, 195);
             lbNumberOne.TabIndex = 0;
-            lbNumberOne.Text = "9";
             lbNumberOne.TextAlign = ContentAlignment.MiddleCenter;
-            lbNumberOne.Click += lbNumberOne_Click;
             // 
             // lbNumberTwo
             // 
@@ -62,9 +64,8 @@
             lbNumberTwo.Location = new Point(591, 382);
             lbNumberTwo.Name = "lbNumberTwo";
             lbNumberTwo.Padding = new Padding(10);
-            lbNumberTwo.Size = new Size(248, 195);
+            lbNumberTwo.Size = new Size(20, 195);
             lbNumberTwo.TabIndex = 1;
-            lbNumberTwo.Text = "12";
             lbNumberTwo.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // lbOperator
@@ -75,9 +76,8 @@
             lbOperator.Location = new Point(309, 468);
             lbOperator.Name = "lbOperator";
             lbOperator.Padding = new Padding(10);
-            lbOperator.Size = new Size(105, 109);
+            lbOperator.Size = new Size(20, 109);
             lbOperator.TabIndex = 2;
-            lbOperator.Text = "+";
             lbOperator.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // lbProblemNumber
@@ -86,19 +86,17 @@
             lbProblemNumber.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
             lbProblemNumber.Location = new Point(60, 55);
             lbProblemNumber.Name = "lbProblemNumber";
-            lbProblemNumber.Size = new Size(229, 51);
+            lbProblemNumber.Size = new Size(0, 51);
             lbProblemNumber.TabIndex = 3;
-            lbProblemNumber.Text = "Problem #1";
             // 
-            // label1
+            // lbTryNumber
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
-            label1.Location = new Point(60, 137);
-            label1.Name = "label1";
-            label1.Size = new Size(133, 51);
-            label1.TabIndex = 4;
-            label1.Text = "Try #1";
+            lbTryNumber.AutoSize = true;
+            lbTryNumber.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            lbTryNumber.Location = new Point(60, 137);
+            lbTryNumber.Name = "lbTryNumber";
+            lbTryNumber.Size = new Size(0, 51);
+            lbTryNumber.TabIndex = 4;
             // 
             // lbEnterAnswer
             // 
@@ -109,7 +107,6 @@
             lbEnterAnswer.Size = new Size(355, 51);
             lbEnterAnswer.TabIndex = 5;
             lbEnterAnswer.Text = "Enter your answer:";
-            lbEnterAnswer.Click += label2_Click;
             // 
             // btnSubmitAnswer
             // 
@@ -121,17 +118,20 @@
             btnSubmitAnswer.TabIndex = 7;
             btnSubmitAnswer.Text = "Submit";
             btnSubmitAnswer.UseVisualStyleBackColor = false;
+            btnSubmitAnswer.Click += btnSubmitAnswer_Click;
             // 
-            // button1
+            // btnContinue
             // 
-            button1.BackColor = SystemColors.ActiveCaption;
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(490, 931);
-            button1.Name = "button1";
-            button1.Size = new Size(150, 46);
-            button1.TabIndex = 9;
-            button1.Text = "Continue";
-            button1.UseVisualStyleBackColor = false;
+            btnContinue.BackColor = SystemColors.ActiveCaption;
+            btnContinue.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnContinue.Location = new Point(490, 931);
+            btnContinue.Name = "btnContinue";
+            btnContinue.Size = new Size(150, 46);
+            btnContinue.TabIndex = 9;
+            btnContinue.Text = "Continue";
+            btnContinue.UseVisualStyleBackColor = false;
+            btnContinue.Visible = false;
+            btnContinue.Click += btnContinue_Click;
             // 
             // tbAnswerInput
             // 
@@ -145,29 +145,77 @@
             lbSubmissionStatus.AutoSize = true;
             lbSubmissionStatus.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
             lbSubmissionStatus.ForeColor = SystemColors.MenuHighlight;
-            lbSubmissionStatus.Location = new Point(487, 837);
+            lbSubmissionStatus.Location = new Point(213, 847);
             lbSubmissionStatus.Name = "lbSubmissionStatus";
-            lbSubmissionStatus.Size = new Size(153, 51);
+            lbSubmissionStatus.Size = new Size(0, 51);
             lbSubmissionStatus.TabIndex = 8;
-            lbSubmissionStatus.Text = "Correct";
+            // 
+            // lbInvalidInput
+            // 
+            lbInvalidInput.AutoSize = true;
+            lbInvalidInput.ForeColor = Color.Crimson;
+            lbInvalidInput.Location = new Point(462, 674);
+            lbInvalidInput.Name = "lbInvalidInput";
+            lbInvalidInput.Size = new Size(0, 32);
+            lbInvalidInput.TabIndex = 10;
+            // 
+            // lbScoreText
+            // 
+            lbScoreText.AutoSize = true;
+            lbScoreText.Font = new Font("Segoe UI", 70.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbScoreText.Location = new Point(213, 100);
+            lbScoreText.Name = "lbScoreText";
+            lbScoreText.Size = new Size(688, 248);
+            lbScoreText.TabIndex = 11;
+            lbScoreText.Text = "SCORE";
+            lbScoreText.Visible = false;
+            // 
+            // lbScoreValue
+            // 
+            lbScoreValue.AutoSize = true;
+            lbScoreValue.Font = new Font("Segoe UI", 70.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbScoreValue.Location = new Point(326, 440);
+            lbScoreValue.Name = "lbScoreValue";
+            lbScoreValue.Size = new Size(482, 248);
+            lbScoreValue.TabIndex = 12;
+            lbScoreValue.Text = "90%";
+            lbScoreValue.Visible = false;
+            // 
+            // btnRetry
+            // 
+            btnRetry.BackColor = SystemColors.ActiveCaption;
+            btnRetry.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnRetry.Location = new Point(490, 816);
+            btnRetry.Name = "btnRetry";
+            btnRetry.Size = new Size(150, 46);
+            btnRetry.TabIndex = 13;
+            btnRetry.Text = "Retry";
+            btnRetry.UseVisualStyleBackColor = false;
+            btnRetry.Visible = false;
+            btnRetry.Click += btnRetry_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1120, 1027);
-            Controls.Add(button1);
+            Controls.Add(btnRetry);
+            Controls.Add(lbScoreValue);
+            Controls.Add(lbScoreText);
+            Controls.Add(lbInvalidInput);
+            Controls.Add(btnContinue);
             Controls.Add(lbSubmissionStatus);
             Controls.Add(btnSubmitAnswer);
             Controls.Add(tbAnswerInput);
             Controls.Add(lbEnterAnswer);
-            Controls.Add(label1);
+            Controls.Add(lbTryNumber);
             Controls.Add(lbProblemNumber);
             Controls.Add(lbOperator);
             Controls.Add(lbNumberTwo);
             Controls.Add(lbNumberOne);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -178,11 +226,15 @@
         private Label lbNumberTwo;
         private Label lbOperator;
         private Label lbProblemNumber;
-        private Label label1;
+        private Label lbTryNumber;
         private Label lbEnterAnswer;
         private Button btnSubmitAnswer;
-        private Button button1;
+        private Button btnContinue;
         private TextBox tbAnswerInput;
         private Label lbSubmissionStatus;
+        private Label lbInvalidInput;
+        private Label lbScoreText;
+        private Label lbScoreValue;
+        private Button btnRetry;
     }
 }
