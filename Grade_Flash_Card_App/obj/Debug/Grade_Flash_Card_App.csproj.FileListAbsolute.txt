@@ -1,0 +1,9 @@
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\bin\Debug\Grade_Flash_Card_App.exe.config
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\bin\Debug\Grade_Flash_Card_App.exe
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\bin\Debug\Grade_Flash_Card_App.pdb
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.csproj.AssemblyReference.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.Properties.Resources.resources
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.csproj.GenerateResource.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.csproj.CoreCompileInputs.cache
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.exe
+C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\Grade_Flash_Card_App\obj\Debug\Grade_Flash_Card_App.pdb
