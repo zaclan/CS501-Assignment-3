@@ -1,0 +1,11 @@
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\bin\Debug\Problem_5_6.exe.config
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\bin\Debug\Problem_5_6.exe
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\bin\Debug\Problem_5_6.pdb
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.csproj.AssemblyReference.cache
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.Form1.resources
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.Properties.Resources.resources
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.csproj.GenerateResource.cache
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.csproj.CoreCompileInputs.cache
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.exe
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.pdb
+C:\Users\Zac\source\repos\Assignment_3\Problem_5_6\obj\Debug\Problem_5_6.exe.config
