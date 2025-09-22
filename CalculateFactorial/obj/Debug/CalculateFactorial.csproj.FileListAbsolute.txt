@@ -20,3 +20,14 @@ C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CalculateFactori
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.CoreCompileInputs.cache
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.exe
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.form_calculateFactorial.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.Properties.Resources.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CalculateFactorial\obj\Debug\CalculateFactorial.pdb

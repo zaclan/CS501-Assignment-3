@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\temi\\source\\repos\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj": {}
+    "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\temi\\source\\repos\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj": {
+    "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\temi\\source\\repos\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj",
+        "projectUniqueName": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj",
         "projectName": "Roman_Numeral_Converter_4_1",
-        "projectPath": "C:\\Users\\temi\\source\\repos\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj",
-        "packagesPath": "C:\\Users\\temi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\temi\\source\\repos\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\obj\\",
+        "projectPath": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1.csproj",
+        "packagesPath": "C:\\Users\\ericn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ericn\\OneDrive\\Desktop\\BU\\CS 501\\CS501-Assignment-3\\Roman_Numeral_Converter_4_1\\Roman_Numeral_Converter_4_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\temi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ericn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

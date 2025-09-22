@@ -14,3 +14,20 @@ C:\Users\temi\source\repos\distanceConverter\distanceConverter\obj\Debug\net8.0-
 C:\Users\temi\source\repos\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.pdb
 C:\Users\temi\source\repos\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.genruntimeconfig.cache
 C:\Users\temi\source\repos\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\ref\distanceConverter.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\bin\Debug\net8.0-windows\distanceConverter.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\bin\Debug\net8.0-windows\distanceConverter.deps.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\bin\Debug\net8.0-windows\distanceConverter.runtimeconfig.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\bin\Debug\net8.0-windows\distanceConverter.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\bin\Debug\net8.0-windows\distanceConverter.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.Form1.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.AssemblyInfoInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.AssemblyInfo.cs
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.sourcelink.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\refint\distanceConverter.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\distanceConverter.genruntimeconfig.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\distanceConverter\distanceConverter\obj\Debug\net8.0-windows\ref\distanceConverter.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("distanceConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7705dbf7ce0e1eed11b3aa9c407593612e1e611")]
 [assembly: System.Reflection.AssemblyProductAttribute("distanceConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("distanceConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

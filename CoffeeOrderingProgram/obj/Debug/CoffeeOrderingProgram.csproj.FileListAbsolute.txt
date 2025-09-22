@@ -13,3 +13,11 @@ C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CoffeeOrderingPr
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.csproj.CoreCompileInputs.cache
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.exe
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\bin\Debug\CoffeeOrderingProgram.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\bin\Debug\CoffeeOrderingProgram.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\bin\Debug\CoffeeOrderingProgram.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\CoffeeOrderingProgram\obj\Debug\CoffeeOrderingProgram.pdb

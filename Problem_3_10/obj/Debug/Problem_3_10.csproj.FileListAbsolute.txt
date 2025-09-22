@@ -1,0 +1,9 @@
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\bin\Debug\Problem_3_10.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\bin\Debug\Problem_3_10.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\bin\Debug\Problem_3_10.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.Properties.Resources.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3_10\obj\Debug\Problem_3_10.pdb

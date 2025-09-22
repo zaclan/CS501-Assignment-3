@@ -9,3 +9,14 @@ C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.exe
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.pdb
 C:\Users\noahp\Documents\CS501_Fall_Work\hw3\hw3\FruitStand\obj\Debug\FruitStand.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\bin\Debug\FruitStand.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\bin\Debug\FruitStand.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\bin\Debug\FruitStand.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.form_fruitStand.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.Properties.Resources.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\FruitStand\obj\Debug\FruitStand.pdb

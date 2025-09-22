@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade_Flash_Card_App", "Grade_Flash_Card_App\Grade_Flash_Card_App.csproj", "{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3_10", "Problem_3_10\Problem_3_10.csproj", "{6F7079A0-11EE-4B55-9808-EF136AB61DB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3-14", "Problem_3-14\Problem_3-14.csproj", "{1BBA28C7-9CEF-4AA0-AE4D-CAA2E91011C4}"
@@ -19,16 +17,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeOrderingProgram", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitStand", "FruitStand\FruitStand.csproj", "{85EBC2C9-ABE1-4A07-8697-29702278F10E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman_Numeral_Converter_4_1", "Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1.csproj", "{2ABCC35E-1684-CE44-3F3B-32C50AA86A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_5_6", "Problem_5_6\Problem_5_6.csproj", "{7029707C-DF36-4B14-A7EA-3BA6F9002268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distanceConverter", "distanceConverter\distanceConverter\distanceConverter.csproj", "{0C0BA124-66C4-0DC3-81E4-E90D57F96501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4E0E349-A2E2-4B96-8ED0-21E8E361FCD8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F7079A0-11EE-4B55-9808-EF136AB61DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F7079A0-11EE-4B55-9808-EF136AB61DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F7079A0-11EE-4B55-9808-EF136AB61DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +57,18 @@ Global
 		{85EBC2C9-ABE1-4A07-8697-29702278F10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85EBC2C9-ABE1-4A07-8697-29702278F10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85EBC2C9-ABE1-4A07-8697-29702278F10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABCC35E-1684-CE44-3F3B-32C50AA86A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABCC35E-1684-CE44-3F3B-32C50AA86A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABCC35E-1684-CE44-3F3B-32C50AA86A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABCC35E-1684-CE44-3F3B-32C50AA86A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7029707C-DF36-4B14-A7EA-3BA6F9002268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7029707C-DF36-4B14-A7EA-3BA6F9002268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7029707C-DF36-4B14-A7EA-3BA6F9002268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7029707C-DF36-4B14-A7EA-3BA6F9002268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0BA124-66C4-0DC3-81E4-E90D57F96501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0BA124-66C4-0DC3-81E4-E90D57F96501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0BA124-66C4-0DC3-81E4-E90D57F96501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0BA124-66C4-0DC3-81E4-E90D57F96501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

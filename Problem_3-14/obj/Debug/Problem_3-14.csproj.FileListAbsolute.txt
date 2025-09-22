@@ -9,3 +9,14 @@ C:\Users\Zac\source\repos\Assignment_3\Problem_3-14\obj\Debug\Problem_3-14.cspro
 C:\Users\Zac\source\repos\Assignment_3\Problem_3-14\obj\Debug\Problem_3-14.exe
 C:\Users\Zac\source\repos\Assignment_3\Problem_3-14\obj\Debug\Problem_3-14.pdb
 C:\Users\Zac\source\repos\Assignment_3\Problem_3-14\obj\Debug\Problem_3-14.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\bin\Debug\Problem_3-14.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\bin\Debug\Problem_3-14.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\bin\Debug\Problem_3-14.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.exe.config
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3_14.Form1.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3_14.Properties.Resources.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Problem_3-14\obj\Debug\Problem_3-14.pdb

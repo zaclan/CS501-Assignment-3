@@ -14,3 +14,20 @@ C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4
 C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.pdb
 C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.genruntimeconfig.cache
 C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\ref\Roman_Numeral_Converter_4_1.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.exe
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.deps.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.runtimeconfig.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.Form1.resources
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.AssemblyInfoInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.AssemblyInfo.cs
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.sourcelink.json
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\refint\Roman_Numeral_Converter_4_1.dll
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.pdb
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.genruntimeconfig.cache
+C:\Users\ericn\OneDrive\Desktop\BU\CS 501\CS501-Assignment-3\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\ref\Roman_Numeral_Converter_4_1.dll
