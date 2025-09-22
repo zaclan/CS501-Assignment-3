@@ -12,8 +12,10 @@ namespace CoffeeOrderingProgram
         {
             Console.WriteLine("Welcome to the digital coffee shop!");
 
-            int bill = 0;
-            bool done = false;
+            int bill = 0;   //total price
+            bool done = false;  //whether or not the person is still ordering
+            
+            //let them order once, then keep prompting to order again and looping through until they stop.
             do
             {
                 Console.WriteLine(
@@ -43,16 +45,20 @@ namespace CoffeeOrderingProgram
                 }
                 catch (FormatException)
                 {
+                    //if they don't give valid input, the next iteration starts and just prompts them again
                     Console.WriteLine("Not a valid input.");
                     continue;
                 }
+                //Some viable response values.
                 string[] acceptableYes = { "yes", "y", "yeah" };
                 string[] acceptableNo = { "no", "n", "nah" };
+                //Whithin this loop, make another loop to run until the user properly confirms/denies a new order.
                 do
                 {
                     Console.WriteLine("Would you like to order anything else? (yes/no)");
                     string yesOrNo = Console.ReadLine();
                     yesOrNo = yesOrNo.ToLower();
+                    //regardless of yes or no, break this response loop when a valid response is given.
                     if (acceptableYes.Contains(yesOrNo))
                     {
                         break;

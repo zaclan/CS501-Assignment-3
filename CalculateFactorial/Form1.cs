@@ -18,6 +18,7 @@ namespace CalculateFactorial
             InitializeComponent();
         }
 
+        //On click, the factorial is calculated via loop and displayed.
         private void button_calculate_Click(object sender, EventArgs e)
         {
             int input = (int) Math.Round(nup_selectNumber.Value);

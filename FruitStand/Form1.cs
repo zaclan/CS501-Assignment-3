@@ -18,9 +18,11 @@ namespace FruitStand
             InitializeComponent();
         }
 
+        //methods to update price for each image click
         private void picture_banana_Click(object sender, EventArgs e)
         {
-            //whenever updating price, change the totalPrice value and convert it to a string
+            //Whenever updating price, do not reference the text showing the price.
+            // Instead, update the totalPrice value and re-assign that text to be that number as a string.
             totalPrice += .65;
             text_totalAmount.Text = "$"+totalPrice.ToString("F2");  //ensure 2 decimal places since it is a price
         }
@@ -43,6 +45,7 @@ namespace FruitStand
             text_totalAmount.Text = "$" + totalPrice.ToString("F2");
         }
 
+        //The reset works the same as the fruit buttons, but it just sets the price to 0.
         private void button_reset_Click(object sender, EventArgs e)
         {
             totalPrice = 0.0;
