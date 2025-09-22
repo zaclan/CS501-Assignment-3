@@ -1,0 +1,16 @@
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.exe
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.deps.json
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.runtimeconfig.json
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.dll
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\bin\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.pdb
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.Form1.resources
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.csproj.GenerateResource.cache
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.AssemblyInfoInputs.cache
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.AssemblyInfo.cs
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.csproj.CoreCompileInputs.cache
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.dll
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\refint\Roman_Numeral_Converter_4_1.dll
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.pdb
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\Roman_Numeral_Converter_4_1.genruntimeconfig.cache
+C:\Users\temi\source\repos\Roman_Numeral_Converter_4_1\Roman_Numeral_Converter_4_1\obj\Debug\net8.0-windows\ref\Roman_Numeral_Converter_4_1.dll
